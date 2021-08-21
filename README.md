@@ -4,3 +4,5 @@
 * Data Set: South German Credit (Kaggle)
 * Data Set: Netflix file to be put
 * Data Set: Unknown
+* Data Set: Part One
+* Data Set: Part Two
